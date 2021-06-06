@@ -3,7 +3,7 @@ Covid-19 application shows Statistics worldwide
 
 
 19
-<img src="/covid.mp4" align="left"
+<img src="/covid.gif" align="left"
 20
 width="150"
 21
